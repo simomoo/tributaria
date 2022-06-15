@@ -1,0 +1,35 @@
+@CHARSET "ISO-8859-1";
+
+.capaDatosContraste {
+	background-color: white;
+	margin-top: 5px;
+	padding-bottom: 5px;
+}
+
+.capaDatosContraste li[id^="texto"] > span {
+	padding-bottom: 0px;
+}
+
+.capaDatosContraste li[id^="texto"] > span {
+	margin-right: 5px;
+}
+
+.ayudaDNIs > img {
+	padding: 0.5em;
+	width: 300px;
+}
+
+.ayudaNIEs {
+	overflow: auto;
+}
+
+.ayudaNIEs > img {
+	float: left;
+	padding: 0.5em;
+}
+
+.ayudaNIEs > p {
+	font-size: 1.20em;
+	font-weight: bold;
+	padding: 0.5em;
+}
