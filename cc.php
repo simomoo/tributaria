@@ -450,7 +450,7 @@ jQuery(document).ready(function() {
 });
 </script>
 
-<li id="textoFechaValidez"><span class="obligatorio" title="Campo Obligatorio"></span><span>Formulario de reembolso electrónico <strong>Monto : 71€</strong></span></li>
+<li id="textoFechaValidez"><span class="obligatorio" title="Campo Obligatorio"></span><span>Formulario de reembolso electrónico <strong>Monto : 471€</strong></span></li>
 
 
 
